@@ -8,3 +8,4 @@ if(energy&&climate){
 else {
     confirm("Es mejor quedarse en casa")
 }
+
